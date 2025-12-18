@@ -1,21 +1,25 @@
-# Firsttableaudashboardtest
-## Tableau Sales & Profit Dashboard
+# Tableau Sales & Profit Dashboard
 
-### Overview
-This dashboard was created while learning Tableau to explore sales, profit,
-and order trends across regions and customer segments.
+This project contains a **Tableau dashboard** created during my Tableau learning journey.  
+It explores regional sales performance, profit patterns, and monthly order trends using the Superstore dataset.
 
-### Key Insights
-- Central region contributes the highest share of total sales
-- Corporate and Home Office segments drive higher profit in most regions
-- Sales and profit show a positive correlation, with some low-profit outliers
-- Order quantity fluctuates month-over-month with a peak around mid-year
+## 📊 What's Included
+- Profit by Region and Customer Segment
+- Sales contribution by region (pie chart)
+- Profit vs Sales scatter plot
+- Monthly Order Quantity trend line
+- Unit price group filter
 
-### Tools Used
+## 🛠 Tools Used
 - Tableau Desktop
-- Calculated Fields
-- Filters and basic interactivity
+- Basic filters and chart types
 
-### Notes
-This project was created as part of hands-on learning and focuses on
-exploratory analysis rather than presentation-level storytelling.
+## 💡 Insights (Example)
+- Central region shows the highest sales contribution.
+- Corporate and Home Office segments consistently contribute strong profits.
+- Sales and profit show a positive relationship overall.
+- Order quantity fluctuates monthly with noticeable variation.
+
+## 📌 Notes
+This is a **learning dashboard** focused on exploring Tableau features, not a presentation-ready storytelling dashboard.
+
